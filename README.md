@@ -28,7 +28,7 @@
 ## Авторские права:
 
 - мне принадлежит лишь написанный код
-- источником данным [дата-сет](https://www.kaggle.com/datasets/fiftin/ozon-what-products-do-users-add-to-favs) является ООО "Интернет Решения" www.ozon.ru 
+- источником данных из [дата-сета](https://www.kaggle.com/datasets/fiftin/ozon-what-products-do-users-add-to-favs) является ООО "Интернет Решения" www.ozon.ru 
 
 ## Дополнительно:
 
